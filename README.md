@@ -18,6 +18,12 @@ Interface web do Praxis Diary, um sistema de agendamento para profissionais que 
 
 Qualquer usuário autenticado lista serviços (precisa deles para agendar); criar, editar e excluir serviços é exclusivo de ADMIN.
 
+<img width="450" src="https://github.com/user-attachments/assets/7610080d-66e5-4a46-a3e9-1f73911eaeec" />
+<img width="450" src="https://github.com/user-attachments/assets/59177a9d-0b70-49cb-a806-1c721ab5850b" />
+<img width="450" src="https://github.com/user-attachments/assets/0c20271d-e084-4a7b-8101-a57bc5333cd1" />
+<img width="450" src="https://github.com/user-attachments/assets/07f3a81c-c41e-4b7e-a08f-2e1cba06637b" />
+
+
 ## Requisitos
 
 - Node.js 22 ou superior
@@ -90,3 +96,5 @@ app/
 ## Contrato da API
 
 O contrato completo (endpoints, payloads, códigos de erro e limitações conhecidas) está em [project-context.md](project-context.md).
+
+© 2026 Iasmim Vieira de Oliveira. Todos os direitos reservados. Este código não possui licença de uso livre.
